@@ -1,5 +1,5 @@
 import colors from './js/colors.json';
-import './css/styles.css';
+// import './css/styles.css';
 
 const DELAY = 1000;
 let intervalId = null;
